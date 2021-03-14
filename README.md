@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-*[Introduction](#Introduction)
-*[Technologies](#Technologies)
-*[Launch](#Launch)
-*[Project Status](#Project-Status)
-*[Sources](#Sources)
+* [Introduction](#Introduction)
+* [Technologies](#Technologies)
+* [Launch](#Launch)
+* [Project Status](#Project-Status)
+* [Sources](#Sources)
 
 
 ## Introduction
@@ -30,5 +30,5 @@ Development started on 14/03/2021
 
 ## Sources
 
-*[The Odin Project](https://www.theodinproject.com/lessons/html-css) - The exercise is from The Odin Project Curriculum
-*[Google Homepage](www.google.com)
+* [The Odin Project](https://www.theodinproject.com/lessons/html-css) - The exercise is from The Odin Project Curriculum
+* [Google Homepage](www.google.com)
